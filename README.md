@@ -15,8 +15,21 @@ waku-waku 是一个通用管理平台(UMP, Universal Management Platform). 内�
 - vgmstream.
 - dotnet-script.
 - ffmpeg.
-- AssetStudio.
-- map-viewer.
-- it-is-a-exporter.
+- [AssetStudio][AssetStudio].
+- [map-viewer][map-viewer].
+- [it-is-a-exporter][it-is-a-exporter].
 - hex-viewer
 - skia-image-render
+
+## Waku 全家桶
+- [Waku.OAuth2][Waku.OAuth2]
+- [Waku.Monaco][Waku.Monaco]
+- [Waku.Monaco.Editor.Core][Waku.Monaco.Editor.Core]
+
+[AssetStudio]: https://github.com/kongying-tavern/HoYoStudio
+[Waku.OAuth2]: https://github.com/kongying-tavern/Waku.OAuth2
+[Waku.Monaco]: https://github.com/kongying-tavern/Waku.Monaco
+[Waku.Monaco.Editor.Core]: https://github.com/kongying-tavern/Waku.Monaco.Editor.Core
+[MiniInstaller]: https://github.com/kongying-tavern/MiniInstaller
+[it-is-a-exporter]: https://github.com/kongying-tavern/it-is-a-exporter
+[map-viewer]: https://github.com/kongying-tavern/map-viewer
